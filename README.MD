@@ -1,6 +1,6 @@
 Based on [mac下使用apktool反编译](http://www.cnblogs.com/anee/p/4153411.html)
 
-##use dex2jar
+# use dex2jar
 [dex2jar](https://github.com/pxb1988/dex2jar)
 no need do unzip apk and get .dex
 only use command:
